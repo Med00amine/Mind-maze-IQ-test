@@ -1,3 +1,6 @@
+![Screenshot 2025-06-06 061440](https://github.com/user-attachments/assets/a33f6baf-ef09-4083-9b1f-5af1798d58be)
+![Screenshot 2025-06-06 060733](https://github.com/user-attachments/assets/dd6a4f7d-2a82-4cef-9f7b-1ac24ad6d3f2)
+![Screenshot 2025-06-06 060706](https://github.com/user-attachments/assets/bf17bcde-f665-4324-ac1e-2b0fd934c7c8)
 # Mind Maze IQ Test
 
 A professional IQ test web application built with modern technologies for a fast, responsive, and beautiful user experience.
